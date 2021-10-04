@@ -34,7 +34,7 @@
 	width: 25%;
 	float: left;
 	font-family: "Source Sans Pro";
-	color: #A5A5A5;
+	color: #222632;
 	line-height: 24px;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -68,7 +68,7 @@
 	width: 100%;
 	padding-top: 50px;
 	padding-bottom: 50px;
-	background-color: #B3B3B3;
+	background-color: #222632;
 	clear: left;
 }
 .container .secondary_header ul {
@@ -89,7 +89,7 @@
 	margin-top: 0px;
 	font-family: "Source Sans Pro";
 	font-weight: normal;
-	color: #FFFFFF;
+	color: #222632;
 	letter-spacing: 1px;
 	margin-left: auto;
 	text-align: center;
@@ -97,7 +97,7 @@
 	transition: all 0.3s linear;
 }
 .secondary_header ul li:hover {
-	color: #717070;
+	background-color: #222632;
 	cursor: pointer;
 }
 .left_article {
