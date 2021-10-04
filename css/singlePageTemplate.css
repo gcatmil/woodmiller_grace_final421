@@ -78,12 +78,8 @@ ul li:hover a {
 }
 
 #hero1 {background-image: url(../images/cancer.jpg);}
-#hero2 {
-	background:#000 url(../images/anger.jpg);
-
-
-}
-#hero3 {}
+#hero2 {background:#000 url(../images/anger.jpg);}
+#hero3 {background-image: url(../images/frenchie.jpg);}
 #hero4 {
 	
 }
@@ -91,6 +87,11 @@ edit1 {
 	color: white;
 	background-color: rgba(0,0,0,.80);
 	font-weight: bolder;
+}
+edit2 {
+	color: black;
+	font-weight: bold;
+		background-color: rgba(252,249,249,0.80);
 }
 .light {
 	font-weight: bold;
